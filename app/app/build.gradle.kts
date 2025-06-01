@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace = "br.dev.murilopereira.surfwire"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.dev.murilopereira.surfwire"
         minSdk = 33
-        targetSdk = 34
-        versionCode = 3
-        versionName = "1.1"
+        targetSdk = 35
+        versionCode = 4
+        versionName = "1.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
